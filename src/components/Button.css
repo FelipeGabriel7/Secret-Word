@@ -1,0 +1,23 @@
+.btnOption{
+    margin: 1em auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.6rem;
+    border-radius: 0.5rem;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    background-color:  rgb(9,11,121);
+    color: #fff;
+    font-size: 0.8rem;
+    transition: 0.4s all;
+}
+
+
+.btnOption:hover{
+    transition: 0.4s all;
+    transform: scale(1.2);
+    color: #444;
+    background: #fff;
+}

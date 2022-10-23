@@ -1,0 +1,39 @@
+.init-Screen{
+    margin-top: 3em;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title-initial{
+    font-size: 3rem;
+    color: #fff;
+}
+
+.button-initial{
+    padding: 0.8rem 1rem;
+    color: #fff;
+    border-radius: 0.8rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+    background: rgb(9,11,121);
+    border: 2px solid #fff;
+    cursor: pointer;
+    transition: 0.2s infinite linear;
+}
+
+.button-initial:hover{
+    transition: 0.2s infinite;
+    background: rgb(14, 17, 206);
+}
+
+.off{
+    display: none;
+}
+
+.on{
+    display: flex;
+    justify-content: center;
+}

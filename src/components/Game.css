@@ -1,0 +1,83 @@
+.game{
+    margin-top: 1em;
+    display: flex;
+    gap: 1.8rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+}
+
+.info{
+    display: flex;
+    gap: 1.5rem;
+    flex-direction: column;
+}
+
+.info h2{
+    font-size: 2.8rem;
+}
+
+.info h3{
+    font-size: 2rem;
+}
+
+
+.content-game{
+    padding: 1.8rem;
+    display: flex;
+    justify-content: center;
+    border: 10px solid yellow;
+}
+
+.item-content{
+    font-size: 2.5rem;
+    border: 1px solid #000;
+    background: #fff;
+    color: #000;
+    font-weight: bold;
+    padding: 2rem;
+}
+
+
+.game-on{
+    display: flex;
+    gap: 2rem;
+    flex-direction: column;
+}
+
+.addLetter{
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    gap:  2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.letters-users{
+    display: flex;
+    gap: 0.5rem;
+}
+
+.addLetter input{
+    padding: 1rem;
+    width: 20%;
+}
+
+.addLetter button{
+    width: 40%;
+    padding: 0.6rem ;
+    border: 2px solid #fff;
+    color: #fff;
+    border-radius: 1rem;
+    background: rgb(9,11,121);
+    font-size: 1.4rem;
+}
+
+.addLetter button:hover{
+    transition: 0.2s infinite;
+    background: rgb(14, 17, 206);
+}
