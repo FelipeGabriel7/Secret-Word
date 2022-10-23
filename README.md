@@ -11,10 +11,18 @@
 ##### Funcionalidades
 
  ✍️ - Iniciar o Jogo
+ <br/>
  ✍️ - Tentar Advinhar Letras 
+ <br/>
  ✍️ - Valicação de campos
+ <br/>
  ✍️ - Pontuação 
+ <br/>
  ✍️ - Jogar com dica ou sem
+ <br/> 
+ <br/>
+ 
+ <hr>
 
 <img src="./src/img/newGameImg.png">
 
